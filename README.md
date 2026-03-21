@@ -1,2 +1,2 @@
 # raspberry_gemini
-致裡上課
+致理上課
