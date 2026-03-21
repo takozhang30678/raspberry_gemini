@@ -3,6 +3,7 @@
 #sudo systemctl status docker
 #sudo systemctl start docker
 #sudo systemctl stop docker
+#ctrl b, ctrl alt b, ctrl j
 
 vscode設定
 
