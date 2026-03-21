@@ -1,0 +1,7 @@
+[project]
+name = "lesson2"
+version = "0.1.0"
+description = "第一次使用UV建立設定檔"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []#空白表示無須新增套件
